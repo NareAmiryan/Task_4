@@ -4,5 +4,5 @@ let my_array = new Array;
     return my_array;
 }
 
-let string = "You have a huge string,implement a function that returns all words in that string in array format";
+let string = "You have a huge string,implement a function that returns all words in array format";
 alert(changing(string));
